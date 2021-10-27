@@ -4,7 +4,7 @@
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin] [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitter] [<img src="https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white">][hashnode]  
 
 - 🔭 <b>Working</b>: JavaScript and ReactJS.
-- 🌱 <b>Learning</b>: MERN Stack.
+- 🌱 <b>Learning</b>: Next JS.
 - 💬 <b>Ask</b>: About Front-End Development.
 - 👯 <b>Collaborate</b>: With other Developers.
 - 🥅 <b>2021 Goals</b>: Contribute to Open Source projects.
