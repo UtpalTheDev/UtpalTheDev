@@ -20,7 +20,6 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utpalthedev&layout=compact&show_icons=true&theme=onedark)](https://github.com/utpalthedev/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utpalthedev&layout=compact&theme=onedark)](https://github.com/utpalthedev/github-readme-stats)
