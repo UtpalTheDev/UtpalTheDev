@@ -26,7 +26,6 @@
 ---
 
 
-[website]: https://utpalpati.netlify.app
 [twitter]: https://twitter.com/CodesUtpal
 [linkedin]: www.linkedin.com/in/utpal-pati-3bb659170
 [hashnode]: https://hashnode.com/@UtpalTheDev
